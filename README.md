@@ -1,8 +1,8 @@
 ## What is a kata?
 
-A Kata is an exercise performed repeatedly with deliberate intent to improve with each iteration.
+A kata is an exercise performed repeatedly with deliberate intent to improve with each iteration.
 
-To paraphrase from the [Wikipedia entry on kata](http://en.wikipedia.org/wiki/Kata):
+To paraphrase from the [Wikipedia entry on kata](http://en.wikipedia.org/wiki/kata):
 
 The basic goal of kata is to preserve and transmit proven patterns and techniques.
 By practicing in a repetitive manner the learner develops the ability to execute those patterns and techniques in a natural, reflex-like manner. Systematic practice does not mean permanently rigid. The goal is to internalize the patterns and techniques of a kata so they can be executed and adapted under different circumstances, without thought or hesitation.
@@ -11,7 +11,7 @@ By practicing in a repetitive manner the learner develops the ability to execute
 
 In order to define a DevOps kata, we must first define DevOps. The philosophy is that you want to adopt practices that enable you to build quality and flexibility into your software. You also want to adopt a culture that enables members of your team to collaborate effectively.
 
-Coming back to DevOps Kata, perhaps it is best to start with an example:
+Coming back to DevOps kata, perhaps it is best to start with an example:
 
 ```
 Make a change to a web application without taking it down. Users must not be interrupted at any time during the change.
