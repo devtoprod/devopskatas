@@ -25,21 +25,21 @@ time such a requirement comes up.
 We do these things regularly, but a kata would let you take a more systematic approach to things,
 by writing down what you did and sharing it with a wider audience for feedback.
 
-Which brings us to our next question:
+## Contributing
 
-## How is this different from a code kata?
+A good DevOps kata:
 
-## How do you specify a DevOps kata?
+- has a tangible objective
+- is a common problem/pattern addressed by DevOps
+- is solvable in more than one way
 
-## How do you write about solving/practicing a DevOps kata?
+Please share your experiences by adding a kata and sending a pull request. This repository is built by
+and for you.
 
+## See also
 
-## Another kata example ##
+[CodeKata](http://codekata.com/)
 
-How do you ensure that your software is of high quality, when you have a large number of developers
-making frequent changes to the same codebase?
+## License
 
-The answer would be some combination of source control and continuous integration. Now there are many
-concrete answers possible. Git + TravisCI, or SVN and Jenkins, or Mercurial and your homegrown CI service.
-Each answer would throw up some interesting perspective on what works and what doesn't - should we use
-feature branches or not, should we add code review, what kind of tests should we write and when?
+CC0 1.0 Universal
