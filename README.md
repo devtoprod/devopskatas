@@ -9,11 +9,7 @@ By practicing in a repetitive manner the learner develops the ability to execute
 
 ## What is a DevOps kata?
 
-In order to define a DevOps kata, we must first define DevOps itself. This is hard because
-DevOps is not a rigid term, it is more like a school of thought.
-
-The philosophy is that you want to adopt practices that enable you to build quality and flexibility
-into your software. You want to adopt a culture that enables members of your team to collaborate effectively.
+In order to define a DevOps kata, we must first define DevOps. The philosophy is that you want to adopt practices that enable you to build quality and flexibility into your software. You also want to adopt a culture that enables members of your team to collaborate effectively.
 
 Coming back to DevOps Kata, perhaps it is best to start with an example:
 
