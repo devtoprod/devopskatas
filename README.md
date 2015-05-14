@@ -15,7 +15,7 @@ DevOps is not a rigid term, it is more like a school of thought.
 The philosophy is that you want to adopt practices that enable you to build quality and flexibility
 into your software. You want to adopt a culture that enables members of your team to collaborate effectively.
 
-Coming back to Devops Kata, perhaps it is best to start with an example:
+Coming back to DevOps Kata, perhaps it is best to start with an example:
 
 How do you make a change to a web application without the application ever going 'down'?
 To elaborate, the users of the web app must not be interrupted when they land on the app,
