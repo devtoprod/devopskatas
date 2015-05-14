@@ -13,16 +13,16 @@ In order to define a DevOps kata, we must first define DevOps. The philosophy is
 
 Coming back to DevOps Kata, perhaps it is best to start with an example:
 
-How do you make a change to a web application without the application ever going 'down'?
-To elaborate, the users of the web app must not be interrupted when they land on the app,
-while you are making the change.
+```
+Make a change to a web application without taking it down. Users must not be interrupted at any time during the change.
+```
 
 This can be solved in different ways - for example perform rolling restarts on your application server, OR
 provision an entirely new server and switch over your load balancer. Each approach
 has costs and benefits. Practicing them both will let you make a better informed decision the next
 time such a requirement comes up.
 
-We practice these things regularly, but a kata would let you take a more systematic approach to things,
+We do these things regularly, but a kata would let you take a more systematic approach to things,
 by writing down what you did and sharing it with a wider audience for feedback.
 
 Which brings us to our next question:
