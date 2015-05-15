@@ -5,7 +5,15 @@ A kata is an exercise performed repeatedly with deliberate intent to improve wit
 A DevOps kata is an exercise designed to make you think deeply about problems and patterns
 that occur repeatedly in the world of DevOps.
 
-Please read the [FAQs](#faqs)
+Get started with one of the [katas](#list-of-katas).
+
+Read the [FAQs](#faqs) to know more.
+
+This collection of kata's is intended to be created and curated by the community,
+we welcome your [contributions](#contributing). 
+
+This work is licenced under CC0, so feel free to
+use it as you see fit.
 
 ## List of katas
 
