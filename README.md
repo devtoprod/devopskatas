@@ -10,7 +10,7 @@ Get started with one of the [katas](#list-of-katas).
 Read the [FAQs](#faqs) to know more.
 
 This collection of kata's is intended to be created and curated by the community,
-we welcome your [contributions](#contributing). 
+we welcome your [contributions](#contributing).
 
 This work is licenced under CC0, so feel free to
 use it as you see fit.
@@ -18,6 +18,7 @@ use it as you see fit.
 ## List of katas
 
 - [Etched In Stone](katas/etched-in-stone.md)
+- [Enigma](katas/enigma.md)
 
 # FAQs
 
