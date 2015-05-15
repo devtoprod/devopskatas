@@ -1,13 +1,22 @@
-Katas are located in the [katas](katas/) folder. They all have unique names. They are not in any particular order,
-feel free to start with any that you find interesting.
+# Devops katas
 
-You can contribute your own katas. To know how, look at the [Contributing](#contributing) section.
+A kata is an exercise performed repeatedly with deliberate intent to improve with each iteration.
 
-Also, please go through the FAQ's below.
+A DevOps kata is an exercise designed to make you think deeply about problems and patterns
+that occur repeatedly in the world of DevOps.
 
 ## List of katas
 
 - [Etched In Stone](katas/etched-in-stone.md)
+
+# FAQs
+
+## Where are the katas?
+
+Katas are located in the [katas](katas/) directory. They all have unique names.
+They are not in any particular order, feel free to start with any that you find interesting.
+
+You can contribute your own katas. To know how, look at the [Contributing](#contributing) section.
 
 ## What is a kata?
 
