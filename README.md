@@ -1,3 +1,14 @@
+Katas are located in the [katas](katas/) folder. They all have unique names. They are not in any particular order,
+feel free to start with any that you find interesting.
+
+You can contribute your own katas. To know how, look at the [Contributing](#contributing) section.
+
+Also, please go through the FAQ's below.
+
+## List of katas
+
+- [Etched In Stone](katas/etched-in-stone.md)
+
 ## What is a kata?
 
 A kata is an exercise performed repeatedly with deliberate intent to improve with each iteration.
