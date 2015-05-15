@@ -14,16 +14,28 @@ What if your tokens and Stripe API key got stolen? It is almost as bad as losing
 the credit cards themselves.
 
 So, how do you keep your secrets *secret*? Here are a few questions to guide you:
-- Where do your secrets live? Who can see them?
-- Are your secrets in source control? Is that a risk?
-- Is your archived data encrypted?
-- Are you using the right kind of encryption - think of the tradeoffs of various
-encryption algorithms available and which is the right one for the right task.
-- Does your encryption algorithm have an impact on performance - is the tradeoff worth it?
-- Do you need encryption or can you do a one way transform - for e.g. for storing
-passwords.
+
+- How many secrets do you have? Where do they live?
+
+- Who all can see the secrets?
+
 - Are your secrets ephemeral or persistent on your systems - for e.g. environment
 variables are scoped to the lifetime of the shell, while files live for ever.
+
+- Are your secrets of the right kind? For example would a key be better than
+a username/password?
+
+- Are your secrets in source control? Is that a risk?
+
+- Is your sensitive data encrypted at rest? Should that credit card token DB
+be encrypted?
+
+- Do you need encryption or one-way transforms for each kind of secret? For example
+passwords are better saved as one-way transforms with high work factors (for e.g. bcrypt)
+
+- Can you cycle your secrets if you suspect a security breach? How quickly can
+you cycle and expire compromised credentials?
+
 
 Remember, that these questions are intended to serve as guide posts. You may want to get started
 with attacking the simple problems first, and as you gain confidence, think about the harder problems.
